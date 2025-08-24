@@ -1,3 +1,32 @@
+# Web framework
+fastapi
+uvicorn
+anyio
+aiofiles
+
+# Google ADK & GenAI SDK
 google-adk
+google-generativeai
+
+# MongoDB client
 pymongo
+
+# Logging
+loguru
 colorlog
+
+# Environment variables
+python-dotenv
+
+# Regex
+regex
+
+# Image processing
+Pillow
+pytesseract
+numpy
+opencv-python
+
+# Data & typing
+pydantic
+typing-extensions
